@@ -1,43 +1,100 @@
-# Mint-Jettton
+# Ton Mint Smart Contract Jetton
 
-![Mint-Jettton Logo](a)
+## Project Description
+Welcome to the Ton Mint Smart Contract Jetton project! This innovative tool is designed to simplify the process of creating and managing jettons on the TON blockchain. With straightforward deployment and comprehensive functionality, this smart contract is ideal for both developers and blockchain enthusiasts eager to explore decentralized finance (DeFi) solutions on TON.
 
-**Mint-Jettton** is a comprehensive tool designed for the creation and deployment of custom jettons on the TON blockchain. This repository empowers users to mint personalized TON tokens, each featuring unique branding elements such as logos, names, and ticker symbols, while also facilitating seamless integration with TON DApps and Web3 applications.
+## Table of Contents
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
+6. [Contact](#contact)
 
 ## Features
+- **Easy Deployment:** Quickly set up and deploy your smart contract with minimal configuration necessary.
+- **Jetton Management:** Comprehensive management features for minting, transferring, and burning jettons.
+- **Security:** Built-in security features to protect your assets and transactions.
+- **Scalability:** Designed to support and manage a high volume of transactions seamlessly.
 
-- **Custom Jetton Minting:** Create tokens with personalized logos and names.
-- **TON DApp Integration:** Supports involvement in TON DApps and Web3 applications.
-- **Ecosystem Participation:** Engage with the TON blockchain, including TON DEX and token swaps.
+## Installation
 
-## Requirements
+To install and set up the Ton Mint Smart Contract Jetton, follow these steps:
 
-- A TON wallet with at least 0.25 TON balance.
-- Compatible with wallets like TonHub and Chrome Extensions.
+1. **Clone the repository:**
 
-## Getting Started
+   ```bash
+   git clone https://github.com/Lendon-B/Ton-mint-smart-contract-jetton.git
+   ```
 
-1. **Wallet Preparation:** Ensure your TON wallet is funded with at least 0.25 TON.
-2. **Access Deployment Form:** Use the provided web interface to design and deploy your custom jettons.
-3. **Follow Instructions:** Adhere to the instructions on-screen to complete minting.
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd Ton-mint-smart-contract-jetton
+   ```
+
+3. **Install dependencies:**
+
+   Use `npm` to install the required dependencies:
+
+   ```bash
+   npm install
+   ```
 
 ## Usage
 
-Mint-Jettton is an ideal solution for users looking to:
+After installation, you can start using the smart contract with the following steps:
 
-- Connect with your wallet.
-- Link your logo link for your own jetton and name, amount and so on.
-- Integrate tokens within broader blockchain systems.
+1. **Deploy the Contract:**
+
+   Initiate the deployment process using your development environment configured for the TON blockchain.
+
+2. **Mint Jettons:**
+
+   Use the provided scripts to mint new jettons. Example command:
+
+   ```bash
+   node scripts/mint.js
+   ```
+
+3. **Manage Jettons:**
+
+   Transfer or burn jettons using the specific scripts in the `scripts` directory. Example command for transfer:
+
+   ```bash
+   node scripts/transfer.js
+   ```
+
+For detailed guidance on each operation, refer to the documentation included in the `docs` directory of this repository.
 
 ## Contributing
 
-We welcome contributions to improve Mint-Jettton. Please submit pull requests or open issues for any enhancements or features.
+We welcome and appreciate contributions from the community! If you'd like to help improve the Ton Mint Smart Contract Jetton:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix:
+   
+   ```bash
+   git checkout -b feature-name
+   ```
+
+3. Commit your changes and push the branch:
+   
+   ```bash
+   git commit -m "Description of changes"
+   git push origin feature-name
+   ```
+
+4. Submit a pull request with a detailed description of your changes.
 
 ## License
 
-This project is licensed under the MIT License. See the MIT(LICENSE) file for detailed information.
+This project is licensed under the MIT License, allowing flexibility for personal and commercial modification and distribution. See the `LICENSE` file for more information.
 
 ## Contact
 
-For further assistance or inquiries, contact the development team at sunriselevente@gmail.com.
+For questions, issues, or collaboration, please reach out via the GitHub issues page or contact me directly through my [GitHub profile](https://github.com/Lendon-B).
 
+Your stars are much appreciated! ⭐ If you find this project useful or interesting, please consider starring it on GitHub to help others discover it too.
+
+This README structure offers clear, accessible information, encouraging users to contribute and engage with the project while also promoting visibility [citation:1][citation:6][citation:9][citation:10].  
