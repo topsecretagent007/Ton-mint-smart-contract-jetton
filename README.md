@@ -94,7 +94,9 @@ This project is licensed under the MIT License, allowing flexibility for persona
 ## Contact
 
 For questions, issues, or collaboration, please reach out via the GitHub issues page or contact me directly through my [GitHub profile](https://github.com/Lendon-B).
-
+<br />
+Email : lendonbracewell1114@gmail.com
+<br />
+Telegram : https://t.me/lendon1114
+<br />
 Your stars are much appreciated! ⭐ If you find this project useful or interesting, please consider starring it on GitHub to help others discover it too.
-
-This README structure offers clear, accessible information, encouraging users to contribute and engage with the project while also promoting visibility [citation:1][citation:6][citation:9][citation:10].  
