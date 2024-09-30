@@ -93,10 +93,8 @@ This project is licensed under the MIT License, allowing flexibility for persona
 
 ## Contact
 
-For questions, issues, or collaboration, please reach out via the GitHub issues page or contact me directly through my [GitHub profile](https://github.com/Lendon-B).
+For questions, issues, or collaboration, please reach out via the GitHub issues page or contact me directly through my [GitHub profile](https://github.com/topsecretagent007).
 <br />
-Email : lendonbracewell1114@gmail.com
-<br />
-Telegram : https://t.me/lendon1114
+Telegram : https://t.me/topsecretagent_007
 <br />
 Your stars are much appreciated! ⭐ If you find this project useful or interesting, please consider starring it on GitHub to help others discover it too.
