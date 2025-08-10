@@ -24,7 +24,7 @@ To install and set up the Ton Mint Smart Contract Jetton, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Lendon-B/Ton-mint-smart-contract-jetton.git
+   git clone https://github.com/topsecretagent007/Ton-mint-smart-contract-jetton.git
    ```
 
 2. **Navigate to the project directory:**
