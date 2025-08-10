@@ -95,6 +95,6 @@ This project is licensed under the MIT License, allowing flexibility for persona
 
 For questions, issues, or collaboration, please reach out via the GitHub issues page or contact me directly through my [GitHub profile](https://github.com/topsecretagent007).
 <br />
-Telegram : https://t.me/topsecretagent_007
+Telegram : [@topsecretagnt_007](https://t.me/@topsecretagent_007)
 <br />
 Your stars are much appreciated! ⭐ If you find this project useful or interesting, please consider starring it on GitHub to help others discover it too.
